@@ -1,6 +1,6 @@
 # country_state_city_pickers
 
-A new Flutter plugin.
+A new Flutter plugin to select country with state and city, it contains validation as well as you can initialize country in it.
 
 ## Getting Started
 
