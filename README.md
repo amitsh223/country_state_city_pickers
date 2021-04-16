@@ -3,13 +3,13 @@
 A new Flutter plugin to select country with state and city, it contains validation as well as you can initialize country in it.
 
 ## Getting Started
-List of countries with symbol for initialization.
- 🇦🇫Afghanistan
- 🇦🇽Aland Islands
- 🇦🇱Albania
- 🇩🇿Algeria
- 🇦🇸American Samoa
- 🇦🇩Andorra
+
+ 🇦🇫Afghanistan \                                                                            
+ 🇦🇽Aland Islands \
+ 🇦🇱Albania \
+ 🇩🇿Algeria \
+ 🇦🇸American Samoa \
+ 🇦🇩Andorra \
  🇦🇴Angola
  🇦🇮Anguilla
  🇦🇶Antarctica
@@ -254,4 +254,5 @@ List of countries with symbol for initialization.
  🇿🇼Zimbabwe
  🇽🇰Kosovo
  🇨🇼Curaçao
- 🇸🇽Sint Maarten (Dutch part)                                                       
+ 🇸🇽Sint Maarten (Dutch part)
+

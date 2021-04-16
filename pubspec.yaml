@@ -1,6 +1,6 @@
 name: country_state_city_pickers
 description: A new Flutter plugin.
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/amitsh223/country_state_city_pickers
 
 environment:
